@@ -1,5 +1,5 @@
-# Script that will run after booting an Azure topology from Snapshot
-# Script shall deploy the flags and prepare the VM per user
+# Initial Script that will run after booting an Azure topology from Snapshot
+# Initial Script shall deploy the flags and prepare the VM per user
 
 $ErrorActionPreference = 'Stop'
 try {

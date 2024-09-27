@@ -1,5 +1,4 @@
-# Dynamic Pentest Lab Windows Template
-Template folder for the Dynamic Pentest Lab Generator in Hacking-Lab
+# EDR Bypass Lab
 
 # install-script.ps1
 * DPL will load and run this script before making an Azure Snapshot

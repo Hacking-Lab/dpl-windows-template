@@ -1,4 +1,4 @@
-# Install Script Windows VM in Azure
+# Initial Install Script Windows VM in Azure
 # What every you do below goes to the Azure Snapshot
 
 $ErrorActionPreference = 'Stop'
